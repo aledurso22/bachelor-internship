@@ -1,0 +1,16 @@
+{
+    "simulations": [
+        {
+            "lattice_length": 20,
+            "num_agents": 10
+        },
+        {
+            "lattice_length": 30,
+            "num_agents": 15
+        },
+        {
+            "lattice_length": 40,
+            "num_agents": 20
+        }
+    ]
+}
